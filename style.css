@@ -362,7 +362,7 @@ h3{
     margin-top:1rem; 
 }
 
-.package-card {
+.package-card1 {
     text-align: center;
     background-color: #fff;
     border-radius: 12px;
@@ -374,7 +374,7 @@ h3{
 
 
 
-.card {
+.card1 {
     background-color: #f9f9f9;
     border-radius: 12px;
    
@@ -382,7 +382,7 @@ h3{
    
 }
 
-.card img {
+.card1 img {
     width: 100%;
     height: 200px;
     border-radius: 12px;
